@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 
-I'am a passionate full-stack developer with expertise in building modern web and mobile applications. My journey in tech began with simple HTML pages and has evolved into creating complex, scalable applications.I love solving real-world problems through code and continuously learning new technologies.
+I’m passionate about mobile app development and full-stack web development with expertise in building modern web and mobile applications. My journey in tech began with simple HTML pages and has evolved into creating complex, scalable applications.I love solving real-world problems through code and continuously learning new technologies.
 
 🔭 Currently working on: Advanced React Native features and microservices architecture  
 
